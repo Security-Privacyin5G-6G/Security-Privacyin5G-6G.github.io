@@ -1,15 +1,1 @@
-# Setup
-title:               Machine Learning for Big Code and Naturalness
-tagline:             'a living literature review'
-description:         'Research on machine learning for source code.'
-url:                 https://ml4code.github.io
-baseurl:             ''
-
-collections:
-  publications:
-    output: true
-    permalink: /:collection/:path/
-
-plugins_dir:
-  - jekyll-sitemap
-  - jekyll-seo-tag
+theme: jekyll-theme-slate
