@@ -47,11 +47,8 @@ Please cite as
 </pre>
 -->
 ### Contributing
-1. The security and privacy issues in the key ares of the 6G network are surveyed and presented.
-2. The promising key technologies of the 6G network have been presented, and security and privacy issues which are related to these technologies are detailed.
-3. We presented an overview new security and privacy issues in the 6G network. 
-<!--This research area is evolving so fast that a static review cannot keep up.
+This research area is evolving so fast that a static review cannot keep up.
 But a website can! We hope to make this site a living document.
 Anyone can add a paper to this web site, essentially by creating one Markdown file.
  To contribute, open a pull request in GitHub, by following [these instructions 
-for contributing](contributing.html).-->
+for contributing](contributing.html).

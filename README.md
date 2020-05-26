@@ -2,7 +2,7 @@
 
 
 This is the repository for The Security and privacy in 5G and 6G networks.
-Please look at the [website](https://minghao-97.github.io) for more information about
+Please look at the [website](https://security-privacyin5g-6g.github.io) for more information about
 the survey and for information about contributing your work or taxonomy to the website.
 
 
