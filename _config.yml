@@ -1,1 +1,15 @@
-theme: jekyll-theme-slate
+# Setup
+title:               The Security and Privacy in 5G and 6G networks
+tagline:             'a living literature review'
+description:         'New areas and New challenges.'
+url:                 https://minghao-97.github.io
+baseurl:             ''
+
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:path/
+
+plugins_dir:
+  - jekyll-sitemap
+  - jekyll-seo-tag

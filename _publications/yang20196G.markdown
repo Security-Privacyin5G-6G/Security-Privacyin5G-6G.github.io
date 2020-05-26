@@ -1,0 +1,12 @@
+---
+layout: publication
+title: "6G Wireless Communications: Vision and Potential Techniques"
+authors: P. Yang, Y. Xiao, M. Xiao, S. Li 
+conference: IEEE Network 
+year: 2019
+bibkey: yang20196G
+additional_links:
+   - {name: "IEEE website", url: "https://ieeexplore.ieee.org/abstract/document/8782879"}
+tags: ["6G", "Introduction"]
+---
+With the fast development of smart terminals and emerging new applications (e.g., real-time and interactive services), wireless data traffic has drastically increased, and current cellular networks (even the forthcoming 5G) cannot completely match the quickly rising technical requirements. To meet the coming challenges, the sixth generation (6G) mobile network is expected to cast the high technical standard of new spectrum and energy-efficient transmission techniques. In this article, we sketch the potential requirements and present an overview of the latest research on the promising techniques evolving to 6G, which have recently attracted considerable attention. Moreover, we outline a number of key technical challenges as well as the potential solutions associated with 6G, including physical-layer transmission techniques, network designs, security approaches, and testbed developments.
