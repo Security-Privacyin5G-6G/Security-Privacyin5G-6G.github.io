@@ -1,0 +1,12 @@
+---
+layout: publication
+title: "A survey on security aspects for LTE and LTE-A networks"
+authors: J. Cao, M. Ma, H. Li, Y. Zhang
+conference: IEEE Communications Surveys & Tutorials
+year: 2013
+bibkey: cao2013a
+additional_links:
+   - {name: "IEEE website", url: "https://ieeexplore.ieee.org/abstract/document/6506141/"}
+tags: ["4G", "Overview"]
+---
+High demands for broadband mobile wireless communications and the emergence of new wireless multimedia applications constitute the motivation to the development of broadband wireless access technologies in recent years. The Long Term Evolution/System Architecture Evolution (LTE/SAE) system has been specified by the Third Generation Partnership Project (3GPP) on the way towards fourth-generation (4G) mobile to ensure 3GPP keeping the dominance of the cellular communication technologies. Through the design and optimization of new radio access techniques and a further evolution of the LTE systems, the 3GPP is developing the future LTE-Advanced (LTE-A) wireless networks as the 4G standard of the 3GPP. Since the 3GPP LTE and LTE-A architecture are designed to support flat Internet Protocol (IP) connectivity and full interworking with heterogeneous wireless access networks, the new unique features bring some new challenges in the design of the security mechanisms. This paper makes a number of contributions to the security aspects of the LTE and LTE-A networks. First, we present an overview of the security functionality of the LTE and LTE-A networks. Second, the security vulnerabilities existing in the architecture and the design of the LTE and LTE-A networks are explored. Third, the existing solutions to these problems are classically reviewed. Finally, we show the potential research issues for the future research works.
