@@ -1,0 +1,12 @@
+---
+layout: publication
+title: "6G: Opening new horizons for integration of comfort, security and intelligence"
+authors: G. Gui, M. Liu, F. Tang, N. Kato
+conference:  IEEE Wireless Communications
+year: 2020
+bibkey: gui20206G
+additional_links:
+   - {name: "IEEE Link", url: "https://ieeexplore.ieee.org/abstract/document/9023459"}
+tags: ["Key Areas", "Distributed Artificial Intelligence"]
+---
+The innovations provided by sixth generation wireless communication (6G) as compared to fifth generation (5G) are considered in this article based on analysis of related works. With the aim of achieving diverse performance improvements for the various 6G requirements, five 6G core services are identified. Two centricities and eight key performance indices (KPIs) are detailed to describe these services, then enabling technologies to fulfill the KPIs are discussed. A 6G architecture is proposed as an integrated system of the enabling technologies and is then illustrated using four typical urban application scenarios. Potential challenges in the development of 6G technology are then discussed and possible solutions are proposed. Finally, opportunities for exploring 6G are analyzed in order to guide future research.
