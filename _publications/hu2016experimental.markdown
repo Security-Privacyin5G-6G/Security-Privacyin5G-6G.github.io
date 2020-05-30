@@ -2,7 +2,7 @@
 layout: publication
 title: "Experimental quantum secure direct communication with single photons"
 authors: J.-Y. Hu, B. Yu, M.-Y. Jing, L.-T. Xiao, S.-T. Jia, G.-Q. Qin, G.-L. Long
-conference: Light: Science and Applications
+conference: Light (Science&Application)
 year: 2016
 bibkey: hu2016experimental
 additional_links:
