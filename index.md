@@ -46,6 +46,7 @@ Please cite as
 }
 </pre>
 -->
+This website is for the convenience of finding references in this survey. And still updating!
 ### Contributing
 This research area is evolving so fast that a static review cannot keep up.
 But a website can! We hope to make this site a living document.
