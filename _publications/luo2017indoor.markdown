@@ -1,18 +1,13 @@
 ---
 layout: publication
-title: "Towards 10 Gb/s orthogonal frequency division multiplexing-based visible light communication using a GaN violet micro-LED"
-authors: M. S. Islim, R. X. Ferreira, X. He, E. Xie, S. Videv, S. Viola, S. Watson, N. Bamiedakis, R. V. Penty, I. H. White, et al
-conference: Photonics Research
+title: "Indoor positioning systems based on visible light communication: State of the art"
+authors: J. Luo, L. Fan, H. Li
+conference: IEEE Communications Surveys and Tutorials
 year: 2017
-bibkey: lslim2017towards
+bibkey: luo2017indoor
 additional_links:
-   - {name: "Paper Link", url: "https://www.osapublishing.org/prj/abstract.cfm?uri=prj-5-2-A35"}
-   - {name: "PDF Link", url: "https://www.osapublishing.org/viewmedia.cfm?seq=0&uri=prj-5-2-A35"}
+   - {name: "IEEE Link", url: "https://ieeexplore.ieee.org/abstract/document/8015106/"}
+   - {name: "PDF Link", url: "https://www.researchgate.net/profile/Junhai_Luo/publication/319258577_Indoor_Positioning_Systems_Based_on_Visible_Light_Communication_State_of_the_Art/links/59a8c27aaca27202ed5f567a/Indoor-Positioning-Systems-Based-on-Visible-Light-Communication-State-of-the-Art.pdf"}
 tags: ["Key Technologies", "Visible Light Communication (VLC)"]
 ---
-Visible light communication (VLC) is a promising solution to the increasing demands for
-wireless connectivity. Gallium nitride micro-sized light emitting diodes (micro-LEDs) are
-strong candidates for VLC due to their high bandwidths. Segmented violet micro-LEDs are
-reported in this work with electrical-to-optical bandwidths up to 655 MHz. An orthogonal
-frequency division multiplexing-based VLC system with adaptive bit and energy loading is
-demonstrated, and a data transmission rate of 11.95 Gb/s is achieved with a violet micro
+Advances in visible light communication (VLC) technology and the ubiquity of illumination facility have led to a growing interest in VLC-based indoor positioning. Numerous techniques have been proposed to obtain better system performance. In this paper, we survey over 100 papers ranging from pioneering papers to the state-of-the-art in the field to present the positioning technology. Not only the light emitting diode technology, modulation method and types of receivers are compared but also a novel taxonomy method is proposed. In this paper, VLC-based indoor positioning systems (VLC-based-IPSs) are classified based on the methods used: 1) mathematical method; 2) sensor-assisted method; and 3) optimization method. Different from other survey works, we emphasize and analyze the accuracy of VLC-based-IPS in the experiment and simulation environments. Meanwhile, this paper illustrates challenges, countermeasures, and lessons learned.
