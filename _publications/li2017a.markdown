@@ -1,0 +1,13 @@
+---
+layout: publication
+title: "A survey on the security of blockchain systems"
+authors: X. Li, P. Jiang, T. Chen, X. Luo, Q. Wen
+conference: Future Generation Computer Systems
+year: 2017
+bibkey: li2017a
+additional_links:
+   - {name: "Elsevier Link", url: "https://www.sciencedirect.com/science/article/abs/pii/S0167739X17318332"}
+   - {name: "Arxiv", url: "https://arxiv.org/pdf/1802.06993.pdf%C2%A0"}
+tags: ["6G Applications", "Blockchain and Distributed Ledger Technologies"]
+---
+Since its inception, the blockchain technology has shown promising application prospects. From the initial cryptocurrency to the current smart contract, blockchain has been applied to many fields. Although there are some studies on the security and privacy issues of blockchain, there lacks a systematic examination on the security of blockchain systems. In this paper, we conduct a systematic study on the security threats to blockchain and survey the corresponding real attacks by examining popular blockchain systems. We also review the security enhancement solutions for blockchain, which could be used in the development of various blockchain systems, and suggest some future directions to stir research efforts into this area.
