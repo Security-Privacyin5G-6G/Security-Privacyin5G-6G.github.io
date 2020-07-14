@@ -47,7 +47,7 @@ Please cite as
 }
 </pre>
 -->
-This website is for the convenience of finding references in this survey. And still updating!
+This website is for the convenience of finding references in two surveys (Security and privacy in 6G networks: new areas and new challenges, Blockchain in 5G and 6G networks). And still updating!
 ### Contributing
 This research area is evolving so fast that a static review cannot keep up.
 But a website can! We hope to make this site a living document.
