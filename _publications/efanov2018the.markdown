@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: "The All-Pervasiveness of the Blockchain Technology"
-authors: D Efanov, P Roschin
+authors: D. Efanov, P. Roschin
 conference: 8th Annual International Conference on Biologically Inspired Cognitive Architectures
 year: 2018
 bibkey: efanov2018the
