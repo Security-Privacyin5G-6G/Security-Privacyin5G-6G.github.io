@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: "Blockchain queue theory"
-authors: QL. Li, JY. Ma, YX. Chang
+authors: Q. Li, J. Ma, Y. Chang
 conference: International Conference on Computational Social Networks
 year: 2018
 bibkey: li2018bloockchain
