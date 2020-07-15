@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: "Bitcoin: A Peer-to-Peer Electronic Cash System"
-authors: Satoshi. Nakamoto
+authors: S. Nakamoto
 year: 2008
 bibkey: nakamoto2008bitcoin
 additional_links:
