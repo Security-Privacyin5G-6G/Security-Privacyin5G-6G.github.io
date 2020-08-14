@@ -48,6 +48,22 @@ Please cite as
 </pre>
 -->
 This website is for the convenience of finding references in two surveys (Security and privacy in 6G networks: new areas and new challenges, Blockchain in 5G and 6G networks). And still updating!
+The full survey for security and privacy in 6G networks is available [as a research paper](https://www.sciencedirect.com/science/article/pii/S2352864820302431).
+
+Please cite as
+<pre>
+@article{wang2020security,
+  title={Security and privacy in 6G networks: new areas and new challenges},
+  author={Wang, Minghao and Zhu, Tianqing and Zhang, Tao and Zhang, Jun and Yu, Shui and Zhou, Wanlei},
+  journal={Digital Communications and Networks},
+  year={2020},
+  publisher={Elsevier}
+}
+</pre>
+
+
+
+
 ### Contributing
 This research area is evolving so fast that a static review cannot keep up.
 But a website can! We hope to make this site a living document.
